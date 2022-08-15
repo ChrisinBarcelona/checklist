@@ -20,3 +20,4 @@
 - [ ] Tax Returns
 - [ ] All Bank Statements
 - [ ] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
+- [ ] Pick up paperwork from Lawyer
