@@ -15,7 +15,7 @@
 # Chris Check List
 
 - [ ] Appointment for registration - Ask Bank - Should be new?
-- [ ] NIE
+- [x] NIE
 - [ ] Show Invoices
 - [ ] Tax Returns
 - [ ] All Bank Statements
