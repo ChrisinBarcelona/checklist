@@ -9,8 +9,6 @@
 - [x] 3 últimas nóminas
 - [ ] Vida laboral - Request 
 - [x] Contrato (si antigüedad < 2 años)
-- [ ] Contrato privado de compra o pagos a cuenta - Must Be Sent
-- [ ] Nota simple (Para tasación) - Must Be Sent
 
 # Chris Check List
 
@@ -22,3 +20,6 @@
 - [ ] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
 - [ ] Pick up paperwork from Lawyer
 - [ ] Check Address of Real Estate - Carrer de les Carolines, n. 7, 08012 Barcelona
+- [ ] Contrato privado de compra o pagos a cuenta - Must Be Sent
+- [ ] Nota simple (Para tasación) - Must Be Sent
+- [ ] Cedula De Habitabilidad - Must BE Sent
