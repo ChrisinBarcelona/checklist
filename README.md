@@ -21,3 +21,4 @@
 - [ ] All Bank Statements
 - [ ] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
 - [ ] Pick up paperwork from Lawyer
+- [ ] Check Address of Real Estate
