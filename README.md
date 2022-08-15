@@ -21,4 +21,4 @@
 - [ ] All Bank Statements
 - [ ] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
 - [ ] Pick up paperwork from Lawyer
-- [ ] Check Address of Real Estate
+- [ ] Check Address of Real Estate - Carrer de les Carolines, n. 7, 08012 Barcelona
