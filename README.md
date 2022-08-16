@@ -9,6 +9,7 @@
 - [x] 3 últimas nóminas
 - [ ] Vida laboral - Request 
 - [x] Contrato (si antigüedad < 2 años)
+- [ ] Ask bank if an out of date empadronimiento is still valid (for Chris)
 
 # Chris Check List
 
