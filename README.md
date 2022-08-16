@@ -23,6 +23,6 @@
 - [ ] Contrato privado de compra o pagos a cuenta - Must Be Sent
 - [ ] Nota simple (Para tasación) - Must Be Sent
 - [ ] Cedula De Habitabilidad - Must Be Sent
-- [ ] Change date on contract
+- [ ] Re-issue co No.7317
 
 
