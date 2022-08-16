@@ -19,10 +19,11 @@
 - [ ] All Bank Statements
 - [ ] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
 - [ ] Pick up paperwork from Lawyer
-- [ ] Check Address of Real Estate - Carrer de les Carolines, n. 7, 08012 Barcelona
+- [ ] Call into Byran Real Estate (Fastighetsbyrån) - Carrer de les Carolines, No. 7, 08012 Barcelona
 - [ ] Contrato privado de compra o pagos a cuenta - Must Be Sent
 - [ ] Nota simple (Para tasación) - Must Be Sent
 - [ ] Cedula De Habitabilidad - Must Be Sent
+- [ ] Spelling mistake in contract
 - [ ] Re-issue co No.7317
 
 
