@@ -13,13 +13,13 @@
 
 # Chris Check List
 
-- [ ] Appointment for registration - Ask Bank - Should be new?
+- [x] Appointment for registration - 23/08/2022 @ 15:15
 - [x] NIE
 - [ ] Show Invoices
 - [ ] Tax Returns
 - [ ] All Bank Statements
-- [ ] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
-- [ ] Pick up paperwork from Lawyer
+- [x] Scan Contrato de arrendamiento (si vive en vivienda alquilada) 
+- [x] Pick up paperwork from Lawyer
 - [ ] Call into Byran Real Estate (Fastighetsbyrån) - Carrer de les Carolines, No. 7, 08012 Barcelona
 - [ ] Contrato privado de compra o pagos a cuenta - Must Be Sent
 - [ ] Nota simple (Para tasación) - Must Be Sent
