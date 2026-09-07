@@ -181,6 +181,25 @@
     return node;
   }
 
+  // Nothing stays invisible waiting on the observer: whatever is on screen when
+  // the page settles is revealed, and a backstop catches the rest.
+  function revealOnScreen() {
+    var h = window.innerHeight || 800;
+    document.querySelectorAll('.reveal:not(.in)').forEach(function (n) {
+      if (n.getBoundingClientRect().top < h) {
+        n.classList.add('in');
+        if (revealObserver) revealObserver.unobserve(n);
+      }
+    });
+  }
+
+  function revealAll() {
+    document.querySelectorAll('.reveal:not(.in)').forEach(function (n) {
+      n.classList.add('in');
+      if (revealObserver) revealObserver.unobserve(n);
+    });
+  }
+
   /* ======================================================================
      RENDER — navbar
      ====================================================================== */
@@ -1098,6 +1117,7 @@
     var y = window.scrollY;
     renderAll();
     window.scrollTo(0, y);
+    requestAnimationFrame(revealOnScreen);
   }
 
   function resetAll() {
@@ -1151,6 +1171,10 @@
     });
 
     renderAll();
+    requestAnimationFrame(revealOnScreen);
+    window.addEventListener('load', function () { setTimeout(revealOnScreen, 400); });
+    // last resort: if the observer never fires at all, show everything
+    setTimeout(revealAll, 4000);
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);

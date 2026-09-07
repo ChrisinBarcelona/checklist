@@ -293,9 +293,9 @@ a { color: inherit; }
 
 .hero {
   position: relative;
-  min-height: 100svh;
+  min-height: clamp(540px, 76svh, 780px);
   display: flex; flex-direction: column; justify-content: center;
-  padding: calc(var(--nav-h) + 4rem) var(--pad-x) 7rem;
+  padding: calc(var(--nav-h) + 3.5rem) var(--pad-x) 6.5rem;
 }
 
 .hero-eyebrow {
